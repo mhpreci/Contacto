@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="lblName">Nombre</string>
+    <string name="lblBirth">Fecha de Nacimiento</string>
+    <string name="lblPhone">Telefono</string>
+    <string name="lblMail">Correo</string>
+    <string name="lblDescription">Descripcion Contacto</string>
+    <string name="lblConfirm">Confirmar Datos</string>
+</resources>
